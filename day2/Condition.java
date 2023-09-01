@@ -95,25 +95,25 @@ public class Condition {
         //70~80 C
         //60~70 D
         //60 미만 -> F
-        int score = 17;
+        int score = 59;
         if(score >= 17 && score <= 20){
             System.out.println("F");
         }
         else
-        if(score >= 20){
+        if(score >= 70){
             System.out.println("D");
         }
         else
-        if(score >= 20){
-            System.out.println("D");
+        if(score >= 80){
+            System.out.println("C");
         }
         else
-        if(score >= 20){
-            System.out.println("D");
+        if(score >= 85){
+            System.out.println("B");
         }
         else
-        if(score >= 20){
-            System.out.println("D");
+        if(score >= 90){
+            System.out.println("A");
         }
 
 
