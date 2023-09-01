@@ -22,7 +22,7 @@ public class Array {
         System.out.println(arr3[2]);
         System.out.println(arr3[3]);
         System.out.println(arr3[4]);
-
+        //regewrtgwr
         // arr3 배열에 5개의 숫자 저장
 
         arr3[4] = 40;
