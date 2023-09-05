@@ -27,12 +27,12 @@ public class Exam3 {
         //...
         //100:even
 
-        for (int i = 1; i < 100; i++) {
+        for (int i = 0; i < 100; i++) {
             if(i % 2 == 0){
                 System.out.println(i + "even");
                 for (int j = 1; j < 100; j++) {
                     if(j % 2 == 1){
-                        System.out.println(i + "odd");
+                        System.out.println(j + "odd");
                     }
 
                 }
