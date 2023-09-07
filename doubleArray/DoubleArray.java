@@ -1,4 +1,4 @@
-package DoubleArray;
+package doubleArray;
 
 public class DoubleArray {
 
